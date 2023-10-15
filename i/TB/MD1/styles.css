@@ -1,0 +1,374 @@
+.resume-your-name {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .resume-your-name .div {
+    background-color: #ffffff;
+    height: 842px;
+    overflow: hidden;
+    position: relative;
+    width: 595px;
+  }
+  
+  .resume-your-name .skills-section {
+    height: 196px;
+    left: 310px;
+    position: absolute;
+    top: 590px;
+    width: 249px;
+  }
+  
+  .resume-your-name .section-title {
+    color: #1b8eb4;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .description {
+    color: #222222;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 28px;
+    width: 245px;
+  }
+  
+  .resume-your-name .education-section {
+    height: 366px;
+    left: 310px;
+    position: absolute;
+    top: 200px;
+    width: 260px;
+  }
+  
+  .resume-your-name .education-content {
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: 32px;
+    width: 262px;
+  }
+  
+  .resume-your-name .headline {
+    color: #222222;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 12px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .label {
+    color: #797979;
+    font-family: var(--label-font-family);
+    font-size: var(--label-font-size);
+    font-style: var(--label-font-style);
+    font-weight: var(--label-font-weight);
+    left: 0;
+    letter-spacing: var(--label-letter-spacing);
+    line-height: var(--label-line-height);
+    position: absolute;
+    top: 20px;
+    width: 245px;
+  }
+  
+  .resume-your-name .education-content-2 {
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: 100px;
+    width: 249px;
+  }
+  
+  .resume-your-name .course-content {
+    height: 36px;
+    left: 0;
+    position: absolute;
+    top: 222px;
+    width: 249px;
+  }
+  
+  .resume-your-name .course-content-2 {
+    height: 36px;
+    left: 0;
+    position: absolute;
+    top: 176px;
+    width: 249px;
+  }
+  
+  .resume-your-name .course-content-3 {
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: 268px;
+    width: 249px;
+  }
+  
+  .resume-your-name .course-content-4 {
+    height: 36px;
+    left: 0;
+    position: absolute;
+    top: 330px;
+    width: 249px;
+  }
+  
+  .resume-your-name .work-experience {
+    height: 602px;
+    left: 32px;
+    position: absolute;
+    top: 200px;
+    width: 256px;
+  }
+  
+  .resume-your-name .work-experience-2 {
+    height: 100px;
+    left: 0;
+    position: absolute;
+    top: 32px;
+    width: 260px;
+  }
+  
+  .resume-your-name .text-wrapper {
+    color: #222222;
+    font-family: "Poppins-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .p {
+    color: #797979;
+    font-family: var(--label-font-family);
+    font-size: var(--label-font-size);
+    font-style: var(--label-font-style);
+    font-weight: var(--label-font-weight);
+    left: 0;
+    letter-spacing: var(--label-letter-spacing);
+    line-height: var(--label-line-height);
+    position: absolute;
+    top: 20px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .description-2 {
+    color: #222222;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 44px;
+    width: 254px;
+  }
+  
+  .resume-your-name .work-experience-3 {
+    height: 128px;
+    left: 0;
+    position: absolute;
+    top: 156px;
+    width: 260px;
+  }
+  
+  .resume-your-name .work-experience-4 {
+    height: 142px;
+    left: 0;
+    position: absolute;
+    top: 308px;
+    width: 260px;
+  }
+  
+  .resume-your-name .work-experience-5 {
+    height: 128px;
+    left: 0;
+    position: absolute;
+    top: 474px;
+    width: 260px;
+  }
+  
+  .resume-your-name .header-section {
+    height: 176px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 601px;
+  }
+  
+  .resume-your-name .overlap-group {
+    background-color: #e4f6fb80;
+    height: 176px;
+    position: relative;
+    width: 595px;
+  }
+  
+  .resume-your-name .name {
+    color: #222222;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    left: 102px;
+    letter-spacing: 0;
+    line-height: 34px;
+    position: absolute;
+    top: 32px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .position {
+    color: #1b8eb4;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 102px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    top: 66px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .over-years-of {
+    color: #222222;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 104px;
+    width: 313px;
+  }
+  
+  .resume-your-name .contact-details {
+    height: 108px;
+    left: 385px;
+    position: absolute;
+    top: 40px;
+    width: 166px;
+  }
+  
+  .resume-your-name .text-wrapper-2 {
+    color: #000000;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 10px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    text-decoration: underline;
+    top: 54px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .text-wrapper-3 {
+    color: #1b8eb4;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 10px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .text-wrapper-4 {
+    color: #1b8eb4;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 10px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 80px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .text-wrapper-5 {
+    color: #1b8eb4;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 10px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 40px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .text-wrapper-6 {
+    color: #222222;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 10px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    text-decoration: underline;
+    top: 14px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .text-wrapper-7 {
+    color: #222222;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 10px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    text-decoration: underline;
+    top: 94px;
+    white-space: nowrap;
+  }
+  
+  .resume-your-name .photo {
+    height: 58px;
+    left: 32px;
+    object-fit: cover;
+    position: absolute;
+    top: 32px;
+    width: 58px;
+  }
+  
+  :root {
+    --label-font-family: "Prata-Regular", Helvetica;
+    --label-font-size: 11px;
+    --label-font-style: normal;
+    --label-font-weight: 400;
+    --label-letter-spacing: 0px;
+    --label-line-height: 16px;
+  }
+  
